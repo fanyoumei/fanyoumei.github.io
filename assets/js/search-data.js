@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/youmei_f/research-activity/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/youmei_f/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -371,16 +364,16 @@ ninja.data = [{
             window.location.href = "/youmei_f/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-thrilled-to-begin-my-journey-as-an-assistant-professor-at-the-software-engineering-lab-naist",
+          title: 'Thrilled to begin my journey as an Assistant Professor at the Software Engineering...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-preprint-alert-genai-adoption-in-oss",
+          title: '🚀 New Preprint Alert - GenAI Adoption in OSS',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/youmei_f/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-excited-to-share-that-our-paper-exploring-the-security-md-in-the-dependency-chain-preliminary-analysis-of-the-pypi-ecosystem-has-been-accepted-at-ise-2025",
+          title: '🎉 Excited to share that our paper “Exploring the SECURITY.md in the Dependency...',
           description: "",
           section: "News",},{
         id: 'social-email',
