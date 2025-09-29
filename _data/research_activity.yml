@@ -1,0 +1,65 @@
+- title: Academic Service
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Program Committee Member - <a href="https://conf.researchr.org/committee/saner-2026/saner-2026-papers-program-committee">SANER</a> (Research Track & ERA Track)
+        - Program Committee Member - <a href="https://conf.researchr.org/committee/icpc-2026/icpc-2026-research-program-committee">ICPC</a> (Research Track)
+    
+    - year: 2025
+      items:
+        - Program Committee Member - <a href="https://conf.researchr.org/committee/apsec-2025/apsec-2025-papers-program-committee">APSEC</a> (Technical Track)
+        - Artifact Evaluation Committee Member - <a href="https://conf.researchr.org/committee/icse-2025/icse-2025-artifact-evaluation-artifact-evaluation">ICSE</a>
+    
+    - year: 2023
+      items:
+        - Social Media Chair - <a href="https://conf.researchr.org/committee/icpc-2023/icpc-2023-organizing-committee">ICPC</a> (Organizing Committee)
+
+- title: Academic Positions
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Nara Institute of Science and Technology (NAIST)
+      year: 2025.04 - Present
+    
+    - title: Research Assistant
+      institution: Nara Institute of Science and Technology (NAIST)
+      year: 2022.12 - 2024.04
+
+- title: Visiting Research Experience  
+  type: time_table
+  contents:
+    - title: Visiting Researcher
+      institution: Carnegie Mellon University, Software and Societal Systems Department
+      year: 2025.02 - 2025.03
+      description:
+        - 1-month research visit to Pittsburgh, Pennsylvania
+        - Collaborated with Prof. Bogdan Vasilescu
+    
+    - title: Visiting Researcher
+      institution: University of Melbourne, Australia
+      year: 2023.04 - 2023.06
+      description:
+        - 2-month research visit to Melbourne, Victoria
+        - Collaborated with Prof. Christoph Treude
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: Back End Developer
+      institution: Q.ENEST Holdings
+      year: 2023.11 - 2025.04
+
+- title: Research Awards & Recognition
+  type: time_table  
+  contents:
+    - year: 2025
+      items:
+        - Paper "Developer reactions to protestware in open source software:the cases of color.js and es5.ext" honored with the <a href="https://www.ipsj.or.jp/award/se-award2.html">SIGSE TAKUETSU KENKYU (Outstanding Research) Award</a>
+        - Start Up Funding for Female Researchers program, NAIST (2025-2026)
+    
+    - year: 2024
+      items:
+        - Paper " "My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors" honored with the <a href="https://www.ipsj.or.jp/award/se-award2.html">SIGSE TAKUETSU KENKYU (Outstanding Research) Award</a>
+        - NAIST Granite-AI Research Fellowship (2024.04 - 2025.03)
+        - Grant for International Conference Presenters (Spring 2024), <a href="https://www.candc.or.jp/jyosei/jyosei_kokusai.html">NEC C&C Foundation</a>
