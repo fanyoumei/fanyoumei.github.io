@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/youmei_f/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-research-activity",
+          title: "Research Activity",
+          description: "Research services, visiting experiences, and awards. Overview of academic contributions and recognition.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/youmei_f/teaching/";
+            window.location.href = "/youmei_f/research-activity/";
           },
         },{id: "nav-cv",
           title: "CV",
