@@ -372,7 +372,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/youmei_f/news/announcement_2/";
-            },},{id: "news-excited-to-share-that-our-paper-exploring-the-security-md-in-the-dependency-chain-preliminary-analysis-of-the-pypi-ecosystem-has-been-accepted-at-ise-2025",
+            },},{id: "news-excited-to-share-that-our-paper-human-to-document-ai-to-code-three-case-studies-of-comparing-genai-for-notebook-competitions-has-been-accepted-at-aiware-2025",
+          title: '🎉 Excited to share that our paper “Human to Document, AI to Code:...',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-paper-exploring-the-security-md-in-the-dependency-chain-preliminary-analysis-of-the-pypi-ecosystem-has-been-accepted-at-ise-2025",
           title: '🎉 Excited to share that our paper “Exploring the SECURITY.md in the Dependency...',
           description: "",
           section: "News",},{
