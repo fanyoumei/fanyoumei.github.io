@@ -24,6 +24,14 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// Custom colors - add your own colors here
+$custom-light-pink: #ff7ab3 !default;   // Light mode: R:255 G:122 B:179
+$custom-dark-purple: #ac8ec3 !default;  // Dark mode: R:172 G:142 B:195
+$custom-navy: #1e3a8a !default;         // Professional navy blue
+$custom-teal: #0d9488 !default;         // Modern teal
+$custom-indigo: #4f46e5 !default;       // Rich indigo
+$custom-emerald: #059669 !default;      // Emerald green
+
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark: #1c1c1d;
