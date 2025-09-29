@@ -387,7 +387,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75%6D%65%69.%66%61%6E@%79%6F%75%72%64%6F%6D%61%69%6E.%63%6F%6D", "_blank");
+          window.open("mailto:%66%61%6E.%79%6F%75%6D%65%69.%66%73%32@%69%73.%6E%61%69%73%74.%6A%70", "_blank");
         },
       },{
         id: 'social-github',
@@ -401,21 +401,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/your-linkedin-username", "_blank");
+          window.open("https://www.linkedin.com/in/youmei-fan-513a161a6", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/youmei_f/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://orcid.org/0000-0001-9372-2966", "_blank");
         },
       },{
       id: 'light-theme',
