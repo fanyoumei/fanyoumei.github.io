@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.naist.jp/'>Nara Institute of Science and Technology</a>. Software Engineering Laboratory. Assistant Professor.
 
 profile:
   align: right
   image: youmei_profile.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Email: fan.youmei.fs2@is.naist.jp</p>
 
