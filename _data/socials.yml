@@ -3,14 +3,14 @@
 # the socials will be displayed in the order they are defined here
 
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
-#  organization: princeton # your organization as appears in the subdomain
+# organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: youmei.fan@yourdomain.com # Replace with your actual email address
+email: fan.youmei.fs2@is.naist.jp # Replace with your actual email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: fanyoumei # Replace with your GitHub username
@@ -24,17 +24,23 @@ github_username: fanyoumei # Replace with your GitHub username
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: your-linkedin-username # Replace with your LinkedIn username
+linkedin_username: youmei-fan-513a161a6 # Replace with your LinkedIn username
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0001-9372-2966
+# Example: orcid_id: 0000-0000-0000-0000 # Your ORCID researcher ID
+# To find: Go to orcid.org and search for your name, or create an account
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-# research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: qc6CJjYAAAAJ # Replace with your Google Scholar ID when you get one
+# research_gate_profile: # your profile on ResearchGate  
+# Example: research_gate_profile: Youmei_Fan # Your ResearchGate profile name
+# To find: Your ResearchGate URL is usually researchgate.net/profile/YOUR_NAME
+# rss_icon: true # comment this line to hide the RSS icon
+# scholar_userid: # Replace with your Google Scholar ID when you get one
+# Example: scholar_userid: qc6CJjYAAAAJ # Your Google Scholar profile ID
+# To find: Go to your Google Scholar profile, the ID is in the URL: scholar.google.com/citations?user=YOUR_ID_HERE
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -47,10 +53,17 @@ rss_icon: true # comment this line to hide the RSS icon
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+# x_username: # your X (Twitter) handle
+# Example: x_username: youmei_fan # Your Twitter/X handle (without @)
+# Example: x_username: fanyoumei # Just the username part
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: # can be png, svg, jpg - URL to your custom icon
+#   title: # Display name for your custom social link
+#   url: # URL to your custom social profile
+# Example:
+# custom_social:
+#   logo: https://example.com/my-icon.png
+#   title: My Website
+#   url: https://mywebsite.com
